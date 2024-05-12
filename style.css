@@ -1,0 +1,8 @@
+
+.gamescreen{
+   
+    border: 1px solid black;
+}
+#player1{
+    display: none;
+}
